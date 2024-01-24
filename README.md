@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ReactJS & NextJs**
+- 🌱 I’m currently learning **JAVA**
 
 - ⚡ Fun fact **I am a Syntax Comedian**
 
