@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI & ML**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I am a Syntax Comedian**
 
